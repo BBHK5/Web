@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-3Zvd1+o6YQM1ODc\/AkUBczcqDT3Tj93baedYhHFplcw=",
+      "hash": "sha256-ucg+EMSlFFuv7xXpUZe9RGQ4UZZeAbLcuCKeJM8g24o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-G0uXsq8iPeCKjqiythBjSehaJsz+\/1ECAgxu\/oFZKuc=",
+      "hash": "sha256-woni9KlXhqW80NiDkgAyKwSD8G\/aGV3o2941rkhz32k=",
       "url": "_framework\/GithubPagesTest.wasm"
     },
     {
-      "hash": "sha256-EnvJdEN4M+YP2GyI\/vzGmAV53evdzwuuA8UIAaMQSIk=",
+      "hash": "sha256-AXqnclwnJ36prAY+6Vui0FYoX4KnGOQM5Rw1ByrT6AM=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -165,7 +165,7 @@
       "url": "55years_icon.png"
     },
     {
-      "hash": "sha256-\/sRn1VON46qcnd4eOyxfNLQBjB\/mvreGmXuS0R2Ec7o=",
+      "hash": "sha256-YkxUbP3qtyTA6dZHL520NIE46m\/ZMEH26eSFI+mDXJE=",
       "url": "css\/app.css"
     },
     {
@@ -189,7 +189,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-npGM0i1+Mn31XvjQK6ZHAe0+kaTH\/upLxUjZ9nvzgKc=",
+      "hash": "sha256-t64dl+jCZ6MCpKOwM\/7MCxiiNQ1ihl4a0m+rnRF3mRo=",
       "url": "index.html"
     },
     {
@@ -213,9 +213,13 @@
       "url": "photos\/2025_founders_day.jpeg"
     },
     {
+      "hash": "sha256-NJ83JgIA12F94xeBWnBIJ6W4Rlssj2m+T3u1pjEDL\/4=",
+      "url": "photos\/2025_inspection.jpeg"
+    },
+    {
       "hash": "sha256-9LtSKpodR2+xSMi3W1uJChUH19\/ycissGgzZPugVjLU=",
       "url": "photos\/2025_malaysia_exchange.jpeg"
     }
   ],
-  "version": "hJAvN2Vo"
+  "version": "Oq8U17Ps"
 };

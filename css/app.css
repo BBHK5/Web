@@ -171,3 +171,13 @@ code {
         font-size: 1.3rem;
     }
 }
+
+/* wwwroot/css/site.css */
+.article-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+    .article-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 28px rgba(0,0,0,0.15) !important;
+    }
