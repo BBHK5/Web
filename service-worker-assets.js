@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Wfp75+bkZjBBBYIUno8rWuNfGzURqs3GZOpKUZmfaPA=",
+      "hash": "sha256-2mPiV34mlv97fk9pEtxBV4VN70+GB7c7n7bP6JAiipU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-NtiaEGOneidEDGGhww4RW6UXW2RHtkK9EoojHO67ORk=",
+      "hash": "sha256-k05kcv6\/P32bQi\/0+qe7qo+l874p69\/UwcEbKMMwbvg=",
       "url": "_framework\/GithubPagesTest.wasm"
     },
     {
@@ -221,5 +221,5 @@
       "url": "photos\/2025_malaysia_exchange.jpeg"
     }
   ],
-  "version": "jiBp899m"
+  "version": "rwXCfn2n"
 };
